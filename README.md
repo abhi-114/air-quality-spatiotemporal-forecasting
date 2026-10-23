@@ -35,7 +35,7 @@ Evaluated across a rigorous multi-year benchmark of 50 monitoring stations:
 
 ## ⚙️ Installation & Local Setup
 
-To run this dashboard locally for faculty review or development:
+To run this dashboard locally for development:
 
 1. **Clone the repository:**
    ```bash
